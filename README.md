@@ -19,7 +19,7 @@ The following files are provided:
 
 **anal\_blockfile.pl** and **anal\_reqs.pl**: perl scripts used during the analysis that is described in the writeup.
 
-##!!! Important !!!
+## Important !!!
 The webserver is **not** intended to be run directly accessible from a hostile environment (read The Internet). Although care was taken to only accept very specific URL's and perform basic santity checking, this was my first decent-sized Go program I've written. During the CSCBE18 challenge it was set up behind an NGINX reverse proxy, which implemented basic filtering and rate limiting.
 
 Kris Boulez - kris [dot] boulez [at] gmail [dot] com
