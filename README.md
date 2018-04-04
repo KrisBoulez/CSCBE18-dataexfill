@@ -4,6 +4,7 @@ The challenge was based on data exfiltration using blockchain and consisted of t
 * Blockshark
 * BlocksharkNado
 * BlocksharkNado vs Blocksharcopus
+
 For the challenge a network capture file was provided [data_exfil.pcap](https://github.com/KrisBoulez/CSCBE18-dataexfill/blob/master/data_exfil.pcap).
 
 A writeup of the challenge was published on the NVISO blog (**XXX add URL**)
