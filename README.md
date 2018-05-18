@@ -7,7 +7,7 @@ The challenge was based on data exfiltration using blockchain and consisted of t
 
 For the challenge a network capture file was provided [data_exfil.pcap](https://github.com/KrisBoulez/CSCBE18-dataexfill/blob/master/data_exfil.pcap).
 
-A writeup of the challenge was published on the NVISO blog (**XXX add URL XXX**)
+A writeup of the challenge was published on the [NVISO blog](https://blog.nviso.be/2018/05/18/write-up-on-blockchain-data-exfiltration-cscbe18-qualifiers-challenge/).
 
 The following files are provided:
 
